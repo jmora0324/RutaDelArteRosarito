@@ -73,8 +73,8 @@ $$(document).on('pageInit', '.page[data-page="googlemap"]', function (e) {
     myApp.alert('GoogleMaps page!');
 	
 	/* dos lineas agregadas por mi*/
-    var map = new GoogleMap(1);
-    map.initialize();	
+    //var map = new GoogleMap(1);
+    //map.initialize();	
 	
 })
 
